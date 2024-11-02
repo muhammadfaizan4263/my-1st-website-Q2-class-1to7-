@@ -8,7 +8,7 @@ const Navbar = () => {
                 <b><h2>Dr. Qadir Khan - Boss of Atomic</h2></b>
                 <p style={{ height: '150px', width: '250px' }}>
                     AQ Khan was a Pakistani nuclear physicist and metallurgical engineer, 
-                    colloquially known as the father of Pakistan's atomic weapons program.
+                    colloquially known as the father of Pakistan&apos;s atomic weapons program.
                     <br />
                     <b><button>Read more</button></b> 
                 </p>
